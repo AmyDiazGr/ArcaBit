@@ -3,7 +3,7 @@ app para recibir respuestas de encuestas internas → acción + mejora
 Uso de Inteligencia Artificial en el Desarrollo del Proyecto
 Este proyecto ha integrado herramientas de inteligencia artificial a lo largo de su ciclo de desarrollo con un enfoque significativo en la eficiencia y automatización de tareas de programación.
 
-##🔍 Nivel de integración de herramientas o modelos de IA
+##Nivel de integración de herramientas o modelos de IA
 Durante el desarrollo se utilizaron modelos avanzados de lenguaje como:
 
 ChatGPT (OpenAI) para generación, depuración y documentación de código.
