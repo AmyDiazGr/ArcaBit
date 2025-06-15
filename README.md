@@ -6,9 +6,9 @@ Este proyecto ha integrado herramientas de inteligencia artificial a lo largo de
 ##  🔎 Nivel de integración de herramientas o modelos de IA
 Durante el desarrollo se utilizaron modelos avanzados de lenguaje como:
 
-ChatGPT (OpenAI) para generación, depuración y documentación de código.
+* ChatGPT (OpenAI) para generación, depuración y documentación de código.
 
-Gemini (Google) mediante el uso de una API Key para consultas contextuales, sugerencias de optimización y generación de estructuras de datos y lógica algorítmica.
+* Gemini (Google) mediante el uso de una API Key para consultas contextuales, sugerencias de optimización y generación de estructuras de datos y lógica algorítmica.
 
 ## 📊 Porcentaje de código generado por IA vs. humano
 85% del código fue generado, optimizado o corregido con el apoyo de herramientas de IA conversacional y asistentes de desarrollo.
